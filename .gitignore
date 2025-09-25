@@ -1,6 +1,21 @@
+# Python cache dosyaları
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Jupyter Notebook ara kayıt dosyaları
 .ipynb_checkpoints
+
+# Ortam değişkenleri (API key vs.)
 .env
+
+# MacOS gereksiz dosyaları (opsiyonel)
+.DS_Store
+
+# TensorFlow / Keras model ve checkpoint dosyaları (opsiyonel)
+*.h5
+*.ckpt
+
+# SQLite veritabanı dosyaları (opsiyonel)
+*.sqlite3
