@@ -31,7 +31,6 @@ Her bir görüntü **150x150 piksel** boyutuna getirilerek modele verilmiştir.
   - Erken durdurma (EarlyStopping) ile aşırı öğrenmenin önlenmesi
 - Transfer Learning:
   - Hazır model olarak EfficientNetB0 modelinin kullanılması
-  - 
 
 ## 📊 Elde Edilen Sonuçlar
 - Modelin **Accuracy**: 0.81
